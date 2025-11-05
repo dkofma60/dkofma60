@@ -4,7 +4,7 @@ In order to take maximum advantage of this opportunity, I have equipped myself w
 
 My unique value proposition is the ability to combine machine learning-leveraged mathematical modeling with creative, generalized, philosophical strategic reasoning, fueling your organization’s decision-making process with an empirically grounded analysis distilled to the key insights.
 
-<!---
-dkofma60/dkofma60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Recent Projects**
+- [Neuropixels Pipeline Refactor] (https://github.com/dkofma60/Neuropixels-Pipeline-Refactor): Refactoring, debugging, documenting pipeline implementing various deep learning architectures doing image classifiaction from Mice's neuron apike patterns.
+
+Reach me: [LinkedIn](https://linkedin.com/in/daniel-kofman/) | [Email](mailto:dkofma60@ad.unc.edu)

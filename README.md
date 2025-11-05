@@ -7,4 +7,4 @@ My unique value proposition is the ability to combine machine learning-leveraged
 **Recent Projects**
 - [Neuropixels Pipeline Refactor] (https://github.com/dkofma60/Neuropixels-Pipeline-Refactor): Refactoring, debugging, documenting pipeline implementing various deep learning architectures doing image classifiaction from Mice's neuron apike patterns.
 
-Reach me: [LinkedIn](https://linkedin.com/in/daniel-kofman/) | [Email](mailto:dkofma60@ad.unc.edu)
+[Email](mailto:dkofma60@ad.unc.edu)
